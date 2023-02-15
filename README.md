@@ -1,3 +1,3 @@
 # C-plus-plus
 
-Cout<<"Hello World";
+cout<<"Hello World";
