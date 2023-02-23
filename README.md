@@ -10,5 +10,5 @@ cout<<"Hello World";
 
 ### Copy Constructor output
 
-![alt text]()
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/33a4625d7859e82f64d2b6a4df0d22086a72adb9/class%20copy%20constructor%20c++.png)
 
