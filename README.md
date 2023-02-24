@@ -15,3 +15,5 @@ cout<<"Hello World";
 ### Default Constructor output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/2b24067c68de2d2541774a95382bc9829cca5709/default%20constructor.png)
 
+### Greatest among three numbers output
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/4b24ca094a1cad77b29964f1b6acc3dfb837e009/greatest%20among%203%20numbers.png)
