@@ -17,3 +17,6 @@ cout<<"Hello World";
 
 ### Greatest among three numbers output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/4b24ca094a1cad77b29964f1b6acc3dfb837e009/greatest%20among%203%20numbers.png)
+
+### push and pop output
+![alt text]()
