@@ -20,3 +20,6 @@ cout<<"Hello World";
 
 ### push and pop output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/4b24ca094a1cad77b29964f1b6acc3dfb837e009/push%20and%20pop.png)
+ ### Reverse String output
+ ![akt text](https://github.com/Aayush-Basnet/Photos/blob/ed98c185ddae752e31d8bd47c5605a1d3dd2b2fc/Reverse%20String.png)
+ 
