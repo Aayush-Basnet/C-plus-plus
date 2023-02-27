@@ -25,3 +25,6 @@ cout<<"Hello World";
  
 ### Bi-Implication output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/597bead288118a6c10fe49d20660fedb13d25009/Bi-Implication.png)
+
+### Conjunction Output
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/f8f99e1b3c1c62b3c2adeedda59ceca42d7d24d6/conjunction.png)
