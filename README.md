@@ -28,3 +28,6 @@ cout<<"Hello World";
 
 ### Conjunction Output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f8f99e1b3c1c62b3c2adeedda59ceca42d7d24d6/conjunction.png)
+
+### Bank Account creating class Account with data member's acc_no, balance and min_balance(static)
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/f8f99e1b3c1c62b3c2adeedda59ceca42d7d24d6/bank%20account.png)
