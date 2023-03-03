@@ -26,7 +26,10 @@ cout<<"Hello World";
 ### Bi-Implication output
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/597bead288118a6c10fe49d20660fedb13d25009/Bi-Implication.png)
 
-### Conjunction Output
+### Conjunction 
+Conjunction:
+A conjunction is a statement formed by adding two statements with the connector AND. The symbol for conjunction is '∧' which can be read as 'and'. When two statements p and q are joined in a statement, the conjunction will be expressed symbolically as p ∧ q. Conjunction is true when both statements are true, otherwise false.
+
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f8f99e1b3c1c62b3c2adeedda59ceca42d7d24d6/conjunction.png)
 
 ### Bank Account creating class Account with data member's acc_no, balance and min_balance(static)
