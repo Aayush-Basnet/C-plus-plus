@@ -31,3 +31,6 @@ cout<<"Hello World";
 
 ### Bank Account creating class Account with data member's acc_no, balance and min_balance(static)
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f8f99e1b3c1c62b3c2adeedda59ceca42d7d24d6/bank%20account.png)
+
+### Fuzzy set
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/8795c483e903471c1b680033d3a250c32297fd50/fuzzy%20set.png)
