@@ -23,7 +23,10 @@ cout<<"Hello World";
  ### Reverse String output
  ![akt text](https://github.com/Aayush-Basnet/Photos/blob/ed98c185ddae752e31d8bd47c5605a1d3dd2b2fc/Reverse%20String.png)
  
-### Bi-Implication output
+### Bi-Implication 
+Bi-Implication: 
+The bi-implication of p and q, denoted in mathematics by p⟺q, is short hand for the statement "p if and only if q". As such, bi-implication requires q to be True only when p is True. In other words, bi-implication fails (is False) when p is True and q is False or when p is False and q is True.
+
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/597bead288118a6c10fe49d20660fedb13d25009/Bi-Implication.png)
 
 ### Conjunction 
