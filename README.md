@@ -44,3 +44,6 @@ A conjunction is a statement formed by adding two statements with the connector 
 ### Euclidean algorithm
 //WAP to display extended euclidean algo or Bezout's identity.
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/38e05e94080b71f7e669e39c3bfac44f9ab0790c/euclidean.png)
+
+### Floor and celing function
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/9568813e8571f1ece19ead7c05ce141f553b8550/floor%20and%20celing%20function.png)
