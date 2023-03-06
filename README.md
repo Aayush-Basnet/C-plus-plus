@@ -40,3 +40,6 @@ A conjunction is a statement formed by adding two statements with the connector 
 
 ### Fuzzy set
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/8795c483e903471c1b680033d3a250c32297fd50/fuzzy%20set.png)
+
+### Euclidean
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/38e05e94080b71f7e669e39c3bfac44f9ab0790c/euclidean.png)
