@@ -46,4 +46,14 @@ A conjunction is a statement formed by adding two statements with the connector 
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/38e05e94080b71f7e669e39c3bfac44f9ab0790c/euclidean.png)
 
 ### Floor and celing function
+Floor function
+In mathematics and computer science, the floor function is the function that takes as
+input a real number x, and gives as output the greatest integer less than or equal to x,
+denoted ⌊x⌋ or floor(x).
+For example, ⌊3.4⌋ = 3, ⌊−3.4⌋ = −4.
+Ceiling function
+Similarly, the ceiling function maps x to the least integer greater than or equal to x,
+denoted ⌈x⌉ or ceil(x).
+For example, ⌈2.4⌉ = 3, and ⌈−2.4⌉ = −2.
+
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/9568813e8571f1ece19ead7c05ce141f553b8550/floor%20and%20celing%20function.png)
