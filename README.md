@@ -39,6 +39,27 @@ A conjunction is a statement formed by adding two statements with the connector 
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/f8f99e1b3c1c62b3c2adeedda59ceca42d7d24d6/bank%20account.png)
 
 ### Fuzzy set
+Fuzzy set:
+Fuzzy refers to something that is unclear or vague. Hence, Fuzzy Set is a Set where every key is associated with value, which is between 0 to 1 based on the certainty .This value is often called as degree of membership. Fuzzy Set is denoted with a Tilde Sign on top of the normal Set notation.
+Operations on Fuzzy Set with Code :
+1. Union:
+Consider 2 Fuzzy Sets denoted by A and  B, then let’s consider Y be the Union of them, then for every member of  A and  B, Y will be:
+Degree of membership(Y)= max(degree of membership(A), degree of membership(B)) 
+For e.g:
+A = { ( 1 , 0.3 ) ,( 2 , 0.7 ) } and B = { ( 2 , 0.4 ) ,( 3 , 0.6 ) ,( 4 , 0.8 ) }
+union = { ( 1 , 0.3 ) ,( 2 , 0.7 ) ,( 3 , 0.6 ) ,( 4 , 0.8 ) }
+2. Intersection: 
+Consider 2 Fuzzy Sets denoted by A and  B, then let’s consider Y be the Intersection of them, then for every member of  A and  B, Y will be:
+Degree of membership(Y)= min(degree of membership(A), degree of membership(B)) 
+A = { ( 1 , 0.3 ) ,( 2 , 0.7 ) } and B = { ( 2 , 0.4 ) ,( 3 , 0.6 ) ,( 4 , 0.8 ) }
+Intersection ={ ( 2 , 0.4 ) }
+3.Complement:
+Consider a Fuzzy Sets denoted by A  , then let’s consider Y be the Complement of it, then for every member of  A  , Y will be:
+Degree of membership(Y)= 1 – degree of membership(A)
+A = { ( 1 , 0.3 ) ,( 2 , 0.7 ) } and B = { ( 2 , 0.4 ) ,( 3 , 0.6 ) ,( 4 , 0.8 ) }
+COMPLEMENT OF A = { ( 1 , 0.7 ) ,( 2 , 0.3 ) }
+COMPLEMENT OF B = { ( 2 , 0.6 ) ,( 3 , 0.4 ) ,( 4 , 0.2 ) }
+
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/8795c483e903471c1b680033d3a250c32297fd50/fuzzy%20set.png)
 
 ### Euclidean algorithm
