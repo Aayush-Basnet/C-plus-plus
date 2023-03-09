@@ -57,3 +57,7 @@ denoted ⌈x⌉ or ceil(x).
 For example, ⌈2.4⌉ = 3, and ⌈−2.4⌉ = −2.
 
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/9568813e8571f1ece19ead7c05ce141f553b8550/floor%20and%20celing%20function.png)
+
+### Boolean Matrix Operation
+Boolean matrix operations are mathematical operations that can be performed on matrices (arrays of numbers) using Boolean logic (true/false values). Some common Boolean matrix operations include meet, join and product. These operations can be used to create new matrices from existing ones, or to manipulate the values within a matrix based on certain conditions.
+![alt text](https://github.com/Aayush-Basnet/Photos/blob/1ee4b71393290be5bc31c9692ddc9407f95a11bb/Boolean%20Matrxi%20Operation.png)
