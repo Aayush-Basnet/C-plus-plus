@@ -60,6 +60,7 @@ A = { ( 1 , 0.3 ) ,( 2 , 0.7 ) } and B = { ( 2 , 0.4 ) ,( 3 , 0.6 ) ,( 4 , 0.8 )
 COMPLEMENT OF A = { ( 1 , 0.7 ) ,( 2 , 0.3 ) }
 COMPLEMENT OF B = { ( 2 , 0.6 ) ,( 3 , 0.4 ) ,( 4 , 0.2 ) }
 
+
 ![alt text](https://github.com/Aayush-Basnet/Photos/blob/8795c483e903471c1b680033d3a250c32297fd50/fuzzy%20set.png)
 
 ### Euclidean algorithm
